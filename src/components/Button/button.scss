@@ -1,0 +1,17 @@
+.pag-btns {
+  display: flex;
+  padding: 20px;
+  justify-content: center;
+  & button {
+    padding: 10px;
+    margin: 10px;
+    background-color: brown;
+    color: #fff;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+  }
+  .selected{
+    background-color: black;
+  }
+}

@@ -1,0 +1,11 @@
+.div-wrapper {
+  flex-grow: 1;
+  background-color: aqua;
+  width: 100%;
+}
+.div-wrapper .div-cards {
+  padding: 10px;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}/*# sourceMappingURL=wrapper.css.map */
